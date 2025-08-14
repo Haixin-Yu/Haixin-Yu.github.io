@@ -68,13 +68,13 @@ Visual–Tactile Fusion for Transparent Object Grasping in Complex Backgrounds
 
 Li Shoujie\*, **Yu Haixin**\*, Ding Wenbo, Liu Houde, Ye Linqi, Xia Chongkun, Wang Xueqian, Zhang Xiaoping.
 
-[//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-[//]: # (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare)
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare
 
-[//]: # (  aliquet ipsum, ac tempus justo dapibus sit)
+  aliquet ipsum, ac tempus justo dapibus sit
 
-[//]: # (  amet.)
+  amet.
 
 
 </div>
@@ -124,7 +124,7 @@ Ran Yu\*, **Haixin Yu**\*, Shoujie Li, Yan Huang, Ziwu Song, Wenbo Ding
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO</div><img src='images/PIC3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO</div><img src='images/PIC4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
@@ -145,7 +145,7 @@ Shoujie Li, Haixin Yu, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye, Xiao-Pin
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Soft Robotics</div><img src='images/PIC3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Soft Robotics</div><img src='images/PIC5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
