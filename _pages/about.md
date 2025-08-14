@@ -44,6 +44,7 @@ my Bachelor's degree from Northeastern University in 2021.
 [//]: # (# 🔥 News)
 
 [//]: # ()
+
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit.)
 
 [//]: # (  Vivamus ornare aliquet ipsum, ac tempus)
@@ -58,15 +59,14 @@ my Bachelor's degree from Northeastern University in 2021.
 
 # 📝 Publications
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO</div><img src='images/PIC2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
+[Visual–Tactile Fusion for Transparent Object Grasping in Complex Backgrounds](https://ieeexplore.ieee.org/abstract/document/10175024)
 
-Visual–Tactile Fusion for Transparent Object Grasping in Complex Backgrounds
 
-Li Shoujie\*, **Yu Haixin**\*, Ding Wenbo, Liu Houde, Ye Linqi, Xia Chongkun, Wang Xueqian, Zhang Xiaoping.
+Li Shoujie\*, **Yu Haixin**\*, Ding Wenbo, Liu Houde, Ye Linqi, Xia Chongkun,
+Wang Xueqian, Zhang Xiaoping.
 
 **Project**
 
@@ -75,7 +75,6 @@ Li Shoujie\*, **Yu Haixin**\*, Ding Wenbo, Liu Houde, Ye Linqi, Xia Chongkun, Wa
   aliquet ipsum, ac tempus justo dapibus sit
 
   amet.
-
 
 </div>
 </div>
@@ -86,7 +85,8 @@ Li Shoujie\*, **Yu Haixin**\*, Ding Wenbo, Liu Houde, Ye Linqi, Xia Chongkun, Wa
 
 [//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
 
-TGF-Net: Sim2Real Transparent Object 6D Pose Estimation Based on Geometric Fusion
+TGF-Net: Sim2Real Transparent Object 6D Pose Estimation Based on Geometric
+Fusion
 
 **Haixin Yu**, Shoujie Li, Houde Liu, Chongkun Xia, Wenbo Ding, and Bin Liang
 
@@ -129,9 +129,11 @@ Ran Yu\*, **Haixin Yu**\*, Shoujie Li, Yan Huang, Ziwu Song, Wenbo Ding
 
 [//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
 
-M3Tac: A Multispectral Multimodal Visuotactile Sensor With Beyond-Human Sensory Capabilities
+M3Tac: A Multispectral Multimodal Visuotactile Sensor With Beyond-Human Sensory
+Capabilities
 
-Shoujie Li, Haixin Yu, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye, Xiao-Ping Zhang, and Wenbo Ding
+Shoujie Li, Haixin Yu, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye,
+Xiao-Ping Zhang, and Wenbo Ding
 
 [//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
 
@@ -150,9 +152,11 @@ Shoujie Li, Haixin Yu, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye, Xiao-Pin
 
 [//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
 
-JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low-Visibility Environments
+JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low-Visibility
+Environments
 
-Shoujie Li, Linqi Ye, Haixin Yu, Xianghui Yin, Chongkun Xia, Wenbo Ding, Xueqian Wang, and Bin Liang
+Shoujie Li, Linqi Ye, Haixin Yu, Xianghui Yin, Chongkun Xia, Wenbo Ding, Xueqian
+Wang, and Bin Liang
 
 [//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
 
@@ -164,8 +168,6 @@ Shoujie Li, Linqi Ye, Haixin Yu, Xianghui Yin, Chongkun Xia, Wenbo Ding, Xueqian
 
 </div>
 </div>
-
-
 
 # 🎖 Honors and Awards
 
