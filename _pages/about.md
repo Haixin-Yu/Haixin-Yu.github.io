@@ -83,10 +83,9 @@ Wang Xueqian, Zhang Xiaoping.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/PIC1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
+[TGF-Net: Sim2Real Transparent Object 6D Pose Estimation Based on Geometric Fusion](https://ieeexplore.ieee.org/abstract/document/10103597)
 
-TGF-Net: Sim2Real Transparent Object 6D Pose Estimation Based on Geometric
-Fusion
+
 
 **Haixin Yu**, Shoujie Li, Houde Liu, Chongkun Xia, Wenbo Ding, and Bin Liang
 
@@ -105,9 +104,8 @@ Fusion
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA</div><img src='images/PIC3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
+[Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover](https://arxiv.org/abs/2408.14997)
 
-Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover
 
 Ran Yu\*, **Haixin Yu**\*, Shoujie Li, Yan Huang, Ziwu Song, Wenbo Ding
 
@@ -127,12 +125,10 @@ Ran Yu\*, **Haixin Yu**\*, Shoujie Li, Yan Huang, Ziwu Song, Wenbo Ding
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO</div><img src='images/PIC4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
+[M3Tac: A Multispectral Multimodal Visuotactile Sensor With Beyond-Human Sensory Capabilities](https://ieeexplore.ieee.org/abstract/document/10682561)
 
-M3Tac: A Multispectral Multimodal Visuotactile Sensor With Beyond-Human Sensory
-Capabilities
 
-Shoujie Li, Haixin Yu, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye,
+Shoujie Li, **Haixin Yu**, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye,
 Xiao-Ping Zhang, and Wenbo Ding
 
 [//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
@@ -150,12 +146,11 @@ Xiao-Ping Zhang, and Wenbo Ding
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Soft Robotics</div><img src='images/PIC5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[//]: # ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
+[JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low-Visibility Environments](https://www.liebertpub.com/doi/abs/10.1089/soro.2022.0134)
 
-JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low-Visibility
-Environments
 
-Shoujie Li, Linqi Ye, Haixin Yu, Xianghui Yin, Chongkun Xia, Wenbo Ding, Xueqian
+
+Shoujie Li, Linqi Ye, **Haixin Yu**, Xianghui Yin, Chongkun Xia, Wenbo Ding, Xueqian
 Wang, and Bin Liang
 
 [//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
