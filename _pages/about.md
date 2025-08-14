@@ -104,7 +104,7 @@ Wang Xueqian, Zhang Xiaoping.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA</div><img src='images/PIC3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover](https://arxiv.org/abs/2408.14997)
+[**Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover**](https://arxiv.org/abs/2408.14997)
 
 
 Ran Yu\*, **Haixin Yu**\*, Shoujie Li, Yan Huang, Ziwu Song, Wenbo Ding
