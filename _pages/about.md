@@ -68,7 +68,7 @@ Visual–Tactile Fusion for Transparent Object Grasping in Complex Backgrounds
 
 Li Shoujie\*, **Yu Haixin**\*, Ding Wenbo, Liu Houde, Ye Linqi, Xia Chongkun, Wang Xueqian, Zhang Xiaoping.
 
-[**Project**]<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Project**
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare
 
