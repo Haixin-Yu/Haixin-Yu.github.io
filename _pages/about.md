@@ -70,13 +70,16 @@ Wang Xueqian, Zhang Xiaoping.
 
  IEEE Transactions on Robotics(T-RO), 2023.
 
-**Project**
+[//]: # (**Project**)
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare
+[//]: # ()
+[//]: # (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare)
 
-  aliquet ipsum, ac tempus justo dapibus sit
+[//]: # ()
+[//]: # (  aliquet ipsum, ac tempus justo dapibus sit)
 
-  amet.
+[//]: # ()
+[//]: # (  amet.)
 
 </div>
 </div>
@@ -167,26 +170,49 @@ Soft Robotics, 2023.
 </div>
 </div>
 
+# 📝 Patents
+
+
+
 # 🎖 Honors and Awards
 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-  ornare aliquet ipsum, ac tempus justo
-  dapibus sit amet.
+- *2023.10* Tsinghua University First-Class Scholarship
+- *2023.10* 2023 Shenzhen Excellent Science and Technology Paper
+- *2022.10* Tsinghua University Second-Class Scholarship
+- *2021.06* Northeastern University Outstanding Graduate Award
+- *2020.10* Outstanding student of Northeastern University
+- *2020.10* Northeastern University Second-Class Scholarship
+- *2020.04* Meritorious Winner(First Prize) of Mathematical Contest In Modeling(MCM/ICM)
+- *2019.12* Chinese National Scholarship
+- *2019.10* Outstanding student of Northeastern University
+- *2019.10* Northeastern University First-Class Scholarship
+- *2019.04* Northeastern University Xianggang Yucai Scholarship
+- *2018.10* Northeastern University First-Class Scholarship
+- *2018.10* Outstanding student of Northeastern University
+  
 
 # 📖 Educations
 
 - *2021.09 - 2024.06*, Master, Tsinghua University, Beijing, China.
 - *2017.09 - 2021.06*, Undergraduate, Northeastern University, Shenyang, China.
 
-# 💬 Invited Tals
+[//]: # (# 💬 Invited Tals)
 
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-  ornare aliquet ipsum, ac tempus justo
-  dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-  ornare aliquet ipsum, ac tempus justo
-  dapibus sit amet. \| [\[video\]](https://github.com/)
+[//]: # ()
+[//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus)
 
-# 💻 Internships
+[//]: # (  ornare aliquet ipsum, ac tempus justo)
 
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+[//]: # (  dapibus sit amet.)
+
+[//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus)
+
+[//]: # (  ornare aliquet ipsum, ac tempus justo)
+
+[//]: # (  dapibus sit amet. \| [\[video\]]&#40;https://github.com/&#41;)
+
+[//]: # ()
+[//]: # (# 💻 Internships)
+
+[//]: # ()
+[//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
