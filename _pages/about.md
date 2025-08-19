@@ -20,6 +20,8 @@ google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
+# 👨‍🎓 About Me
+
 Hello everyone, welcome to my personal homepage!
 
 My research focuses on robotic perception, learning and planning, with
