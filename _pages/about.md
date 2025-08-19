@@ -139,6 +139,7 @@ IEEE International Conference on Robotics and Automation(ICRA), 2025
 
 Shoujie Li, **Haixin Yu**, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye,
 Xiao-Ping Zhang, and Wenbo Ding.
+
 IEEE Transactions on Robotics(T-RO), 2024. (JCR Q1, IF=10.5)
 
 [//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
