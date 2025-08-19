@@ -70,7 +70,7 @@ my Bachelor's degree from Northeastern University in 2021.
 
 
 Li Shoujie\*, **Yu Haixin**\*, Ding Wenbo, Liu Houde, Ye Linqi, Xia Chongkun,
-Wang Xueqian, Zhang Xiaoping. (Equal contribution) (JCR Q1, IF=10.5)
+Wang Xueqian, Zhang Xiaoping. **(Equal contribution)** (JCR Q1, IF=10.5)
 
  IEEE Transactions on Robotics(T-RO), 2023.
 
@@ -94,7 +94,7 @@ Wang Xueqian, Zhang Xiaoping. (Equal contribution) (JCR Q1, IF=10.5)
 
 [**TGF-Net: Sim2Real Transparent Object 6D Pose Estimation Based on Geometric Fusion**](https://ieeexplore.ieee.org/abstract/document/10103597)
 
-**Haixin Yu**, Shoujie Li, Houde Liu, Chongkun Xia, Wenbo Ding, and Bin Liang (JCR Q1, IF=5.3)
+**Haixin Yu**, Shoujie Li, Houde Liu, Chongkun Xia, Wenbo Ding, and Bin Liang. (JCR Q1, IF=5.3)
 
 IEEE Robotics and Automation Letters(RA-L), 2023.
 
@@ -115,7 +115,7 @@ IEEE Robotics and Automation Letters(RA-L), 2023.
 
 [**Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover**](https://arxiv.org/abs/2408.14997)
 
-Ran Yu\*, **Haixin Yu**\*, Shoujie Li, Yan Huang, Ziwu Song, Wenbo Ding (Equal contribution)
+Ran Yu\*, **Haixin Yu**\*, Shoujie Li, Yan Huang, Ziwu Song, Wenbo Ding. **(Equal contribution)**
 
 IEEE International Conference on Robotics and Automation(ICRA), 2025
 
@@ -138,7 +138,7 @@ IEEE International Conference on Robotics and Automation(ICRA), 2025
 [**M3Tac: A Multispectral Multimodal Visuotactile Sensor With Beyond-Human Sensory Capabilities**](https://ieeexplore.ieee.org/abstract/document/10682561)
 
 Shoujie Li, **Haixin Yu**, Guoping Pan, Huaze Tang, Jiawei Zhang, Linqi Ye,
-Xiao-Ping Zhang, and Wenbo Ding
+Xiao-Ping Zhang, and Wenbo Ding.
 IEEE Transactions on Robotics(T-RO), 2024.
 
 [//]: # ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
@@ -159,7 +159,7 @@ IEEE Transactions on Robotics(T-RO), 2024.
 [**JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low-Visibility Environments**](https://www.liebertpub.com/doi/abs/10.1089/soro.2022.0134)
 
 Shoujie Li, Linqi Ye, **Haixin Yu**, Xianghui Yin, Chongkun Xia, Wenbo Ding, Xueqian
-Wang, and Bin Liang (JCR Q1, IF=6.1)
+Wang, and Bin Liang. (JCR Q1, IF=6.1)
 
 Soft Robotics, 2023.
 
