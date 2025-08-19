@@ -20,6 +20,8 @@ google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
+Hello everyone, welcome to my personal homepage!
+
 My research focuses on robotic perception, learning and planning, with
 applications mainly on manipulation tasks for
 home service robots.
@@ -170,7 +172,7 @@ Soft Robotics, 2023.
 </div>
 </div>
 
-# 📝 Patents
+[//]: # (# 📝 Patents)
 
 
 
@@ -179,6 +181,7 @@ Soft Robotics, 2023.
 - *2023.10* Tsinghua University First-Class Scholarship
 - *2023.10* 2023 Shenzhen Excellent Science and Technology Paper
 - *2022.10* Tsinghua University Second-Class Scholarship
+- *2022.08* The Second Prize in the 4th China Graduate Robotics Innovation Design Competition
 - *2021.06* Northeastern University Outstanding Graduate Award
 - *2020.10* Outstanding student of Northeastern University
 - *2020.10* Northeastern University Second-Class Scholarship
